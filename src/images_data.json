@@ -1,0 +1,77 @@
+[
+  {
+    "path": "images/1.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/2.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/3.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/4.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/5.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/6.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/7.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/8.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/9.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "./images/10.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/11.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/12.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/13.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/14.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  },
+  {
+    "path": "images/15.jpg",
+    "title": "PHOTO WALL",
+    "desc": "this is a beautiful sight!"
+  }
+]
